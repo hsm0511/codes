@@ -1,0 +1,1 @@
+This project includes scripts used to make Database of kor20K MGv2 genotypes.
