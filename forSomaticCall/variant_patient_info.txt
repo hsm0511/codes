@@ -1,0 +1,29 @@
+CHROM	POS	Variant_type	Pathogenicity
+10	112361870 	germline	-
+11	534197 	germline	-
+11	534242 	germline	Neutral (score0.07)
+11	32417945 	germline	-
+12	11992168 	germline	-
+13	28608268 	somatic	
+17	7579472 	germline	Neutral (score0.36)
+17	74733099 	germline	-
+2	25469913 	germline	-
+2	198267770 	germline	
+2	25469174 	somatic	
+2	25457209 	somatic	Pathogenic (score0.98)
+20	31022959 	germline	-
+20	31024274 	germline	-
+3	128204951 	germline	-
+3	128205860 	germline	-
+4	55141055 	germline	
+4	106196951 	germline	Neutral (score0.14)
+4	106155185 	germline	Pathogenic (score0.73)
+7	148543693 	germline	n/a
+9	139391636 	germline	-
+9	139397707 	germline	Neutral (score0.14)
+X	15838366 	germline	Neutral (score0.33)
+X	39932907 	germline	Neutral (score0.08)
+X	39933339 	germline	Neutral (score0.42)
+X	44966795 	germline	-
+X	76937963 	germline	-
+X	129147079 	germline	-
