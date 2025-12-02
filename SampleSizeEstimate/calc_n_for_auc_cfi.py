@@ -16,6 +16,7 @@ alpha=1-stat_power
 alpha_half=alpha/2
 z_alpha_half=norm.ppf(1-alpha_half)
 
+# binormal method for variance estimation by Obuchowski et al. (1998)
 a = norm.ppf(auc)
 v_auc=(0.0099*math.exp(-0.5*a*a))*((5*a*a+8)/sample_control_ratio+a*a+8)
 
